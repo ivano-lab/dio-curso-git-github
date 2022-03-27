@@ -1,0 +1,5 @@
+documentação oficial:
+https://git-scm.com/
+
+conteúdo gratuito em pdf:
+https://www.pdfdrive.com/search?q=git&pagecount=&pubyear=&searchin=&em=
